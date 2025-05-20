@@ -1,9 +1,9 @@
 {
-  "name": "gecedonercisi",
+  "name": "murat-et-gece-donercisi",
   "private": false,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://fcenesiz.github.io/murat-et-gece-donercisi",
+  "homepage": "https://isletmebir.github.io/murat-et-gece-donercisi",
 
   "scripts": {
     "dev": "vite",
